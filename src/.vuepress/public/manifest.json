@@ -1,0 +1,8 @@
+{
+  "name": "功能部",
+  "short_name": "func",
+  "start_url": ".",
+  "description": "功能部文档",
+  "background_color": "#46bd87",
+  "theme_color": "#46bd87"
+}
