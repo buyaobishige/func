@@ -17,7 +17,7 @@ footer: 2019|青春遇见梦想
 
 3. 学习[菜鸟教程的 js 部分](https://www.runoob.com/js/js-tutorial.html)，重点学习课上讲的五个要点
 
-4.作业：仿制[作业网站](lin.nenuyouth.com)中的作业
+4.作业：仿制[作业网站](https://lin.nenuyouth.com)中的作业
 
 ## HTML 提要
 
