@@ -12,14 +12,11 @@
   "author": "Mr.Hope",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.24.0",
-    "vuepress": "^1.1.0"
+    "vuepress": "^1.2.0"
   },
   "devDependencies": {
-    "@vuepress/plugin-medium-zoom": "^1.1.0",
-    "@vuepress/plugin-pwa": "^1.1.0",
-    "eslint": "^6.4.0",
-    "screenfull": "4.2.1",
-    "vuepress-plugin-named-chunks": "^1.0.2"
+    "eslint": "^6.5.1",
+    "vuepress-plugin-named-chunks": "^1.0.2",
+    "vuepress-theme-hope": "0.0.13"
   }
 }
