@@ -11,6 +11,8 @@ footer: 2019|青春遇见梦想
 
 # 第四周工作简报
 
+[gantt图](./lin/gantt.md)
+
 1. [w3c 的 html 教程](https://www.w3cschool.cn/html/html-basic.html)大家本周仔细看一遍此教程，**标签不要求识记**，但要搞清楚标签的开始、闭合结构，标签的属性等基本概念
 
 2. 复习[菜鸟教程的 css 部分](https://www.runoob.com/css/css-tutorial.html)有关章节
