@@ -1,6 +1,6 @@
 /* eslint-disable strict */
 module.exports = {
-  base: "/func/",
+  base: "/funcDeploy/",
   title: "功能部",
   description: "基于Vuepress的功能部博客",
   dest: "dist",
