@@ -12,17 +12,17 @@
   "author": "Mr.Hope",
   "license": "MIT",
   "dependencies": {
-    "mermaid": "^8.4.3",
+    "mermaid": "^8.5.0",
     "moment": "^2.24.0",
-    "vuepress": "^1.1.0",
+    "vuepress": "^1.4.1",
     "vuepress-plugin-comment": "^0.7.3",
     "vuepress-theme-hope": "^0.1.0-rc.10"
   },
   "devDependencies": {
-    "@vuepress/plugin-medium-zoom": "^1.1.0",
-    "@vuepress/plugin-pwa": "^1.1.0",
-    "eslint": "^6.4.0",
+    "@vuepress/plugin-medium-zoom": "^1.4.1",
+    "@vuepress/plugin-pwa": "^1.4.1",
+    "eslint": "^6.8.0",
     "screenfull": "4.2.1",
-    "vuepress-plugin-named-chunks": "^1.0.2"
+    "vuepress-plugin-named-chunks": "^1.1.2"
   }
 }
