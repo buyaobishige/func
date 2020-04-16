@@ -4,8 +4,8 @@ module.exports = {
   /** 头部导航栏的配置 */
   nav: [
     { text: '主页', link: '/', icon: 'homefill' },
-    { text: 'Vuepress介绍', link: '/vuepress/', icon: 'infofill' },
-    { text: 'Markdown介绍', link: '/markdown/', icon: 'markdown' }
+    { text: '烦闷与大学', link: '/lin/rhj1', icon: 'infofill' },
+    // { text: 'Markdown介绍', link: '/markdown/', icon: 'markdown' }
   ],
 
   /** 侧边栏配置 */
