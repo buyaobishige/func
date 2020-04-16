@@ -1,25 +1,26 @@
 <template>
-  <div class="container">
-    <h1>404</h1>
-    <p><strong>File not found</strong></p>
-    <p>
-      The site configured at this address does not
-      contain the requested file.
-    </p>
-    <a href="http://wpa.qq.com/msgrd?v=3&uin=838801702&site=qq&menu=yes">联系我们</a>
+  <div class="theme-container">
+    <div class="theme-default-content">
+      <h1>404</h1>
+      <blockquote>{{ getMsg() }}</blockquote>
+      <router-link to="/">Take me home.</router-link>
+    </div>
   </div>
 </template>
 
 <script>
-export default {
+const msgs = [
+  `There's nothing here.`,
+  `How did we get here?`,
+  `That's a Four-Oh-Four.`,
+  `Looks like we've got some broken links.`
+]
 
+export default {
+  methods: {
+    getMsg () {
+      return msgs[Math.floor(Math.random() * msgs.length)]
+    }
+  }
 }
 </script>
-
-<style>
-.container {
-  margin: 50px auto 40px auto;
-  width: 600px;
-  text-align: center;
-}
-</style>

@@ -2,14 +2,16 @@
 home: true
 heroImage: /favicon.jpg
 actionText: Get Started →
-actionLink: /lin/jsbasic.md
+actionLink: /lin/content.md
 features:
   - title: 我们是谁？
     details: 我们是功能部，我们要做功能
-footer: 2019|青春遇见梦想
+footer: MIT Licensed | Copyright © 2019 林同学
 ---
 
 # 第四周工作简报
+
+<Views path="/func/" />
 
 [gantt图](./lin/gantt.md)
 
@@ -150,3 +152,5 @@ CSS 中，颜色值通常以以下方式定义:
 ## JS 提要
 
 [JS 文档](./lin/jsbasic.md)
+
+<Valine/>
