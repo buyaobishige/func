@@ -5,6 +5,7 @@ module.exports = {
   nav: [
     { text: '主页', link: '/', icon: 'homefill' },
     { text: '烦闷与大学', link: '/lin/rhj1', icon: 'infofill' },
+    { text: '科学教育', link: '/lin/rhj2', icon: 'infofill' }
     // { text: 'Markdown介绍', link: '/markdown/', icon: 'markdown' }
   ],
 
