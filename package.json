@@ -14,7 +14,9 @@
   "dependencies": {
     "mermaid": "^8.4.3",
     "moment": "^2.24.0",
-    "vuepress": "^1.1.0"
+    "vuepress": "^1.1.0",
+    "vuepress-plugin-comment": "^0.7.3",
+    "vuepress-theme-hope": "^0.1.0-rc.10"
   },
   "devDependencies": {
     "@vuepress/plugin-medium-zoom": "^1.1.0",
