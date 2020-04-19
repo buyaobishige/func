@@ -23,6 +23,7 @@ export default {
   },
   name: 'MyViews',
   mounted() {
+    console.log("#"+ 'func'+(this.$route.path=='/'?'':this.$route.path))
     const Valine = require('valine');
     if (typeof window !== 'undefined') {
       this.window = window;
@@ -34,7 +35,7 @@ export default {
       placeholder: '欢迎留下你的评论！',
       visitor: true,
       path:this.path,
-      el: "#"+this.path,
+      el: "#"+ 'func'+(this.$route.path=='/'?'':this.$route.path),
     });
   }
 };

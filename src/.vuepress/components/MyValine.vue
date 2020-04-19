@@ -1,13 +1,6 @@
-<!--
- * @Author: Lin
- * @Date: 2020-04-16 14:48:26
- * @LastEditors: Lin
- * @LastEditTime: 2020-04-19 22:17:14
- * @Description: 
- -->
 <template>
   <div>
-    <div :id="'/func'+this.$route.path"></div>
+    <div :id="'func'+(this.$route.path=='/'?'':this.$route.path)"></div>
   </div>
 </template>
  
