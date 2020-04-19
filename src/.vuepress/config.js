@@ -59,7 +59,8 @@ module.exports = {
           appKey: "P0qs5IyQBvBI9fGdrw6CS5qd",
         },
       },
-    ]["@vuepress/back-to-top"],
+    ],
+    ["@vuepress/back-to-top"],
     [
       "@vuepress/last-updated",
       {

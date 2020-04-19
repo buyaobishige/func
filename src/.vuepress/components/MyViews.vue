@@ -28,14 +28,13 @@ export default {
       this.window = window;
       window.AV = require('leancloud-storage');
     }
- 
     new Valine({
       appId: 'FVKty4KWiFq07tiSWQ2Tw0ul-gzGzoHsz', // your appId
       appKey: 'P0qs5IyQBvBI9fGdrw6CS5qd', // your appKey
       placeholder: '欢迎留下你的评论！',
       visitor: true,
       path:this.path,
-      el: '#vcomments',
+      el: "#"+this.path,
     });
   }
 };
