@@ -55,6 +55,7 @@ export default {
 }
 .viewsWrapper{
   display:flex; 
+  align-items:center;
 }
 </style>
 
