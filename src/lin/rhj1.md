@@ -1,6 +1,6 @@
 # 烦闷与大学教育
 
-<views/>
+<MyViews>任鸿隽</MyViews> 
 
 > 本文是作者在南开大学第十一次毕业式上的演说词。在演说的结尾， 任鸿隽提到， 最要紧的是怎样利用你的闲暇时间。胡适也说过类似的话。
 
@@ -66,4 +66,4 @@
 
 <center><img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1202265291,1230049551&fm=26&gp=0.jpg"></center>
 
-<valine/>
+<MyValine/>

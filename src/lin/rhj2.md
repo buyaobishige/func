@@ -1,8 +1,8 @@
 # 关于科学教育
 
-<views/>
+<MyViews/>
 
-## 一、我为什么“学不动"科学？
+## 一、我为什么“学不动"科学？<Badge text="思考"/>
 
 :::warning
 
@@ -103,7 +103,7 @@
 
 :::
 
-## 四、[重要]怎么培养持久前进的动力：科普教育
+## 四、怎么培养持久前进的动力：科普教育<Badge text="重要" type="error"/>
 
 1. 导言：从十万个为什么说起
 
@@ -153,4 +153,4 @@
 
    ![image](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=706561165,3676659620&fm=26&gp=0.jpg)
 
-<valine/>
+<MyValine/>
