@@ -5,7 +5,6 @@ module.exports = {
   description: "基于Vuepress的功能部博客",
   dest: "dist",
   themeConfig: require("./themeConfig"),
-  // ..
   extraWatchFiles: [".vuepress/themeConfig.js"],
   markdown: { linenumber: true },
   head: [
@@ -48,18 +47,20 @@ module.exports = {
     ["meta", { name: "msapplication-TileColor", content: "#000000" }],
   ],
   plugins: [
-    [
-      "vuepress-plugin-comment",
-      {
-        choosen: "valine",
-        // options选项中的所有参数，会传给Valine的配置
-        options: {
-          el: "#vcomments",
-          appId: "FVKty4KWiFq07tiSWQ2Tw0ul-gzGzoHsz",
-          appKey: "P0qs5IyQBvBI9fGdrw6CS5qd",
-        },
-      },
-    ],
+    // [
+    //   "vuepress-plugin-comment",
+    //   {
+    //     choosen: "valine",
+    //     // options选项中的所有参数，会传给Valine的配置
+    //     options: {
+    //       el: "#valine",
+    //       appId: "FVKty4KWiFq07tiSWQ2Tw0ul-gzGzoHsz",
+    //       appKey: "P0qs5IyQBvBI9fGdrw6CS5qd",
+    //       placeholder: "欢迎留下你的评论！",
+    //       visitor: true,
+    //     },
+    //   },
+    // ],
     ["@vuepress/back-to-top"],
     [
       "@vuepress/last-updated",
