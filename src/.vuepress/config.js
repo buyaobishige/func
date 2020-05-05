@@ -8,7 +8,7 @@ module.exports = {
   extraWatchFiles: [".vuepress/themeConfig.js"],
   markdown: { linenumber: true },
   head: [
-    ["link", { rel: "icon", href: "/favicon.ico" }],
+    ["link", { rel: "icon", href: "/logo.svg" }],
     ["meta", { name: "author", content: "func" }],
     [
       "meta",

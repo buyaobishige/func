@@ -1,3 +1,7 @@
+---
+next: ./rhj2
+---
+
 # 烦闷与大学教育
 
 <MyViews>任鸿隽</MyViews> 
