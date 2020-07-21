@@ -61,6 +61,12 @@ module.exports = {
     //     },
     //   },
     // ],
+    [
+      "vuepress-plugin-mathjax",
+      {
+        target: "svg",
+      },
+    ],
     ["@vuepress/back-to-top"],
     [
       "@vuepress/last-updated",

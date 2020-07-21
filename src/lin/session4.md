@@ -1,6 +1,6 @@
 ---
-prev:./session3
-next:./session5
+prev: ./session3
+next: ./session5
 ---
 
 # 第四次会议记录
@@ -31,11 +31,6 @@ next:./session5
 ## 支线/日常任务
 
 代取快递 校园跑
-
-## 问题
-
-1. 理想型男友
-2. 道具系统与花钱途径
 
 ## 男友人设
 

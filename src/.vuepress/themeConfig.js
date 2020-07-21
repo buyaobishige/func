@@ -26,6 +26,18 @@ module.exports = {
               text: "第四次晚自习",
               link: "/lin/session4",
             },
+            {
+              text: "第五次晚自习",
+              link: "/lin/session5",
+            },
+            {
+              text: "第六次晚自习",
+              link: "/lin/session6",
+            },
+            {
+              text: "第七次晚自习",
+              link: "/lin/session7",
+            },
           ],
         },
       ],
