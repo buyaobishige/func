@@ -27,6 +27,7 @@ next: ./mode
 ## 基础知识
 
 ### 方差与协方差公式<badge type="warning" text="掌握" />
+
 $$Variance(x)=\frac{\sum(X-\bar{X})^2}{N-1}=\frac{SS_x}{N-1}$$
 
 $$Cov(X,Y)=\frac{\sum({X-\bar{X}})({Y-\bar{Y}})}{N-1}=\frac{SP_{xy}}{N-1}$$
@@ -155,7 +156,7 @@ $$R^2=r\times r$$
 
 第二步：代入公式。
 
-$$Z_{difference}=\frac{z_{r_{1}}-z_{r_{2}}}{\sqrt{\frac{1}{N_1-3}+\frac{1}{{N_2+3}}}}$$
+$$Z_{difference}=\frac{z_{r_{1}}-z_{r_{2}}}{\sqrt{\frac{1}{N_1-3}+\frac{1}{(N_2+3)}}}$$
 
 计算可以获得，$Z_difference =-0.768$。根据Z值查找单尾情况下的正态分布表可知p=0.221>0.05，因此结论为差异不显著。
 :::

@@ -16,7 +16,8 @@
     "mermaid": "^8.5.0",
     "moment": "^2.24.0",
     "vuepress": "^1.4.1",
-    "vuepress-plugin-comment": "^0.7.3"
+    "vuepress-plugin-comment": "^0.7.3",
+    "vuepress-plugin-mathjax": "^1.2.8"
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.4.1",
@@ -24,7 +25,6 @@
     "@vuepress/plugin-pwa": "^1.4.1",
     "eslint": "^6.8.0",
     "screenfull": "4.2.1",
-    "vuepress-plugin-mathjax": "^1.2.8",
     "vuepress-plugin-named-chunks": "^1.1.2"
   }
 }

@@ -47,26 +47,6 @@ module.exports = {
     ["meta", { name: "msapplication-TileColor", content: "#000000" }],
   ],
   plugins: [
-    // [
-    //   "vuepress-plugin-comment",
-    //   {
-    //     choosen: "valine",
-    //     // options选项中的所有参数，会传给Valine的配置
-    //     options: {
-    //       el: "#valine",
-    //       appId: "FVKty4KWiFq07tiSWQ2Tw0ul-gzGzoHsz",
-    //       appKey: "P0qs5IyQBvBI9fGdrw6CS5qd",
-    //       placeholder: "欢迎留下你的评论！",
-    //       visitor: true,
-    //     },
-    //   },
-    // ],
-    [
-      "vuepress-plugin-mathjax",
-      {
-        target: "svg",
-      },
-    ],
     ["@vuepress/back-to-top"],
     [
       "@vuepress/last-updated",
@@ -86,6 +66,12 @@ module.exports = {
       {
         serviceWorker: true,
         updatePopup: true,
+      },
+    ],
+    [
+      "vuepress-plugin-mathjax",
+      {
+        target: "svg",
       },
     ],
     [
