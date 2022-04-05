@@ -57,4 +57,7 @@ module.exports = {
 
   /** 自定义仓库链接文字 */
   repoLabel: "Github",
+
+  /** 最后更新时间 */
+  lastUpdated: "上次更新",
 };
