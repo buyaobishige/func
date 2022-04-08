@@ -15,13 +15,5 @@ jobs:
       - restore_cache:
           key: node-dependens # 这个key和save_cache的key相对应，表示使用的是这个key对应的缓存
       - run:
-          name: Install
-          command: yarn install
-      # 设置缓存
-      - save_cache:
-          key: node-dependens
-          paths:
-            - node_modules
-      - run:
           name: Build
           command: npm run build
