@@ -6,4 +6,9 @@ prev: ./spssD18
 
 <MyViews></MyViews>
 
+nihao<MyCite/><MyCite/><MyCite/>
+
+<MyDemo/>
+#### 参考资料
+
 <MyValine/>
