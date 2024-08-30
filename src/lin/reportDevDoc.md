@@ -47,7 +47,7 @@ class PdfWrite:
 :::
 在这个函数中，可以按照自然顺序添加页面内容。
 
-#### 基于函数的方式
++ 基于函数的方式
 `self.someFunc(content,...)`可以以函数的方式添加整块的内容。
 ::: details 查看代码
 函数定义：
@@ -59,7 +59,7 @@ def someFunc (self,content,...):
 # 在content里追加内容即可
 ```
 :::
-#### 直接添加的方式
++ 直接添加的方式
 
 `content.appends(...)`可以添加文本内容。
 
