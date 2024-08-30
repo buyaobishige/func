@@ -42,7 +42,14 @@ module.exports = {
         },
       ],
     },
-    { text: "任鸿隽教育思想", link: "/lin/rhj1" },
+    {
+      text: "我的记录",
+      items: [
+        { text: "咨询报告开发文档", link: "/lin/reportDevDoc" },
+        { text: "任鸿隽教育思想", link: "/lin/rhj1" },
+        { text: "SPSS学习目录", link: "/lin/spssMaps" },
+      ],
+    },
     // { text: 'Markdown介绍', link: '/markdown/', icon: 'markdown' }
   ],
 
