@@ -15,9 +15,12 @@
 > C:\Users\Administrator\AppData\Local\Programs\Python\Python312\Lib\site-packages\reportlab\platypus
 
 2. 跳过安装`fitz`，直接安装`PyMuPDF`
-2. 修改`os.chdir`后的路径
+
+3. 修改`os.chdir`后的路径
 
 
+## 输出
+输出的报告PDF在雅学资讯文件夹中。
 
 ## 代码结构
 
