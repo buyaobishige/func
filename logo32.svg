@@ -1,0 +1,15 @@
+<svg viewBox="0,0,400,400" height="32" width="32" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <!-- <polygon points="0,0 400,0 400,400 0,400" style="fill:black;stroke:yellow;stroke-width:1" /> -->
+  <!-- <g transform="translate(200,-100)rotate(45)"> -->
+  
+    <polygon points="200,200 0,200 100,100" style="fill:lightcoral;stroke:yellow;stroke-width:1" />
+    <polygon points="200,200 100,100,200,100" style="fill:lightblue;stroke:yellow;stroke-width:1" />
+    <polygon points="200,200 200,0 300,100" style="fill:#f1c400;stroke:yellow;stroke-width:1" />
+    <polygon points="200,200 300,100 300,200" style="fill:rgb(134,147,210);stroke:yellow;stroke-width:1" />
+    <polygon points="300,300 200,200 400,200" style="fill:#11abcf;stroke:yellow;stroke-width:1" />
+    <polygon points="200,300 300,300 200,200" style="fill:#cec3fc;stroke:yellow;stroke-width:1" />
+    <polygon points="200,200 200,400 100,300" style="fill:rgb(142,164,212);stroke:yellow;stroke-width:1" />
+    <polygon points="200,200 100,300 100,200" style="fill:#e67e22;stroke:yellow;stroke-width:1" />
+    <circle cx="200" cy="200" r="10" stroke="" stroke-width="2" fill="gold" />
+  <!-- </g> -->
+</svg>
