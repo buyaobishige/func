@@ -57,7 +57,7 @@ module.exports = {
   sidebar: "auto",
 
   /** 侧边栏标题显示深度，0-2 */
-  sidebarDepth: 2,
+  sidebarDepth: 3,
 
   /** 文档目录 */
   docsDir: "src",

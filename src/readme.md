@@ -6,6 +6,8 @@ sidebar: true
 
 <MyViews></MyViews>
 
-[开发文档链接](https://buyaobishige.github.io/func/lin/reportDevDoc.html)
+[开发文档链接](lin/reportDevDoc.html)
 
-[虚拟机配置方法](https://buyaobishige.github.io/func/lin/virtualBoxDoc.html)
+[虚拟机配置方法](lin/virtualBoxDoc.html)
+
+[wurank数据库说明文档](lin/DBdoc.html)
