@@ -1,7 +1,7 @@
 /* eslint-disable strict */
 module.exports = {
   base: "/func/",
-  title: "功能部",
+  title: "林祥子的文档",
   description: "基于Vuepress的功能部博客",
   dest: "dist",
   themeConfig: require("./themeConfig"),
